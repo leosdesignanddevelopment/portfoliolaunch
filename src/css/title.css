@@ -1,0 +1,14 @@
+.titleComponent {
+    /* background: linear-gradient(to right, #b46aff, #ff8c2e); */
+    background: linear-gradient(to right, #6b63ffde, #ef6c007b );
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-weight: 600;
+    font-size: 7rem;
+    /* margin-left: 13rem; */
+    margin: 10rem 0;
+    text-align: center;
+}
+
+

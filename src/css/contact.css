@@ -1,0 +1,39 @@
+
+
+
+.form p {
+    font-size: 4rem;
+}
+
+.form label {
+    font-size: 2rem;
+    margin: 1rem 0;
+
+}
+
+.form input,
+.form textarea {
+    font-size: 2rem;
+    padding: 1.5rem;
+    border-radius: .7rem;
+    /* margin: 1rem 0; */
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+.form button {
+    font-size: 2rem;
+    padding: 1rem;
+    color: rgb(237, 237, 237);
+    background-color: #5045FF;
+    width: 50%;
+    margin: 2rem;
+}
+
+.form button:hover {
+    color: white;
+    background-color: #2e1ffd;
+    transform: scale(1.03);
+    transition: all ease .5s;
+}

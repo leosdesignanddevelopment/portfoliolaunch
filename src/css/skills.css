@@ -1,0 +1,21 @@
+.skillsRow img {
+    width: 9rem;
+    margin: 2rem 1rem;
+}
+
+.skillsRow h3 {
+    font-weight: 500;
+    margin: 0;
+}
+
+@media screen and (min-width: 600px) {
+   .skillsRow img {
+            width: 13rem;
+
+        }
+
+    .skillsRow h3 {
+        font-size: 2.5rem;
+
+    }
+    }

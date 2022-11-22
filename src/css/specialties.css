@@ -1,0 +1,31 @@
+/* .specialContainer {
+    background-color: #C6CBF4;
+} */
+
+.myCard {
+    padding: 1.5rem;
+    margin: 2rem;
+    border-radius: 1rem;
+    border: none;
+}
+
+
+.myCard img {
+    /* max-width: 100%; */
+    height: 30rem;
+    width: 20rem;
+    margin: 0 auto;
+}
+
+.myCard .card-title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 2rem;
+    padding: 1rem;
+    line-height: 2;
+    text-align: center;
+    
+}

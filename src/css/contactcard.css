@@ -1,0 +1,30 @@
+.card {
+    padding: 1rem;
+   font-size: 1.6rem;
+   border: none;
+    /* width: 100px;
+    height: 100px; */
+}
+
+.invertedCard {
+    background-color: #6C63FF;
+    color: white;
+}
+
+.regularCard {
+    background-color: #E8E8E8;
+}
+
+.img {
+    height: 10rem;
+    width: 10rem;
+    margin: 0 auto;
+}
+
+.cardTitle {
+    font-size: 2rem;
+}
+
+.cardText{
+    font-size: 1.6rem;
+}
