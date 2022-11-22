@@ -25,7 +25,7 @@ import Skills from './components/skills';
 // My showcase
 import Showcase from './components/showcase';
 // Svg import for project showcase 
-import rtbSvg from './img/showcase/rtb.svg'
+import rtbSvg from './img/showcase/rtb.jpg'
 import rtbStackSvg from './img/showcase/rtbStack.svg'
 
 
