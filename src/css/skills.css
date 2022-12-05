@@ -1,5 +1,5 @@
 .skillsRow img {
-    width: 9rem;
+    width: 7rem;
     margin: 2rem 1rem;
 }
 
@@ -9,10 +9,10 @@
 }
 
 @media screen and (min-width: 600px) {
-   .skillsRow img {
+   /* .skillsRow img {
             width: 13rem;
 
-        }
+        } */
 
     .skillsRow h3 {
         font-size: 2.5rem;
